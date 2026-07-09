@@ -16,11 +16,11 @@ Tối ưu Kaggle: Code được thiết kế để chạy trên môi trường K
 
 3. Cấu trúc Dự án
 
-├── data/               # (Đường dẫn Dataset)
-├── models/             # Định nghĩa kiến trúc (ConvNeXt, PCBM-h)
-├── notebooks/          # Kaggle Notebooks & Experiments
-├── utils/              # Tiền xử lý, U-Zeros, và các hàm hỗ trợ
-└── train.py            # Script huấn luyện chính
+├── data/               # (Đường dẫn Dataset)  
+├── models/             # Định nghĩa kiến trúc (ConvNeXt, PCBM-h)  
+├── notebooks/          # Kaggle Notebooks & Experiments  
+├── utils/              # Tiền xử lý, U-Zeros, và các hàm hỗ trợ  
+└── train.py            # Script huấn luyện chính   
 
 
 4. Hướng dẫn Sử dụng
